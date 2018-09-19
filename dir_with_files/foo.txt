@@ -1,0 +1,8 @@
+Global_vmax_NP
+Untitled.ipynb
+Untitled1.ipynb
+data
+input_splash_test_sofun
+planets
+python_workshop.ipynb
+traits
